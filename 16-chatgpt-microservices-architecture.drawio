@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2025-03-03T06:31:17.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="7k_A5Fj8eTzdutFnw94I" version="24.4.13" type="device">
+  <diagram name="Page-1" id="p0lGnkbN5-Gzd2STKtln">
+    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-1" value="&lt;div&gt;user-microservice-1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-2" value="payment-microservice-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="390" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-5" value="H2 Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-7" value="H2 Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-10" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wFR9q7ACn8h7_a1qFnXa-11" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
